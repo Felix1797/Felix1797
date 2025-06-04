@@ -1,9 +1,9 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
 
 
 
-![TypingSVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luan+Felix;I'm+27+years+old;I'm+from+Brazil;I'm+student+Data+Scientist;Be+Welcome!+:%29)
+![TypingSVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luan+Felix;I'm+27+years+old;I'm+from+Brazil;I'm+student+Data+Scientist;Be+Welcome!+:%29)
 
 
  ### Main skills: 
